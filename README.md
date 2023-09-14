@@ -8,12 +8,12 @@ This dataset focuses on the classification of Alzheimer's disease based on MRI s
 
 ## Dataset Card
 Train split:
-Number of bytes: 22,560,791.2
-Number of examples: 5,120
+- Number of bytes: 22,560,791.2
+- Number of examples: 5,120
 
 Test split:
-Number of bytes: 5,637,447.08
-Number of examples: 1,280
+- Number of bytes: 5,637,447.08
+- Number of examples: 1,280
 
 ## Model Card
 
