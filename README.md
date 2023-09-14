@@ -15,6 +15,9 @@ Test split:
 - Number of bytes: 5,637,447.08
 - Number of examples: 1,280
 
+### Citation
+Dataset was obtained from [Hugging Face](https://huggingface.co/datasets/Falah/Alzheimer_MRI).
+
 ## Model Card
 
 #### Model Details
