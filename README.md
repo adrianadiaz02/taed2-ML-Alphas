@@ -15,7 +15,7 @@ Test split:
 - Number of bytes: 5,637,447.08
 - Number of examples: 1,280
 
-### Citation
+#### Citation
 Dataset was obtained from [Hugging Face](https://huggingface.co/datasets/Falah/Alzheimer_MRI).
 
 ## Model Card
@@ -24,7 +24,7 @@ Dataset was obtained from [Hugging Face](https://huggingface.co/datasets/Falah/A
 #### Intended Use
 - Primary intended uses: Classify brain pictures of MRI scans according the severity of the Alzheimer disease they present.
 - Primary intended users: Researchers and health medicine applications.
-- Out-of-scope use cases: Detction of other brain diseases different from Alzheimer.
+- Out-of-scope use cases: Detection of other brain diseases different from Alzheimer.
 
 ### Metrics
 
